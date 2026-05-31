@@ -53,28 +53,22 @@ Das Kernmerkmal dieses Setups ist eine **verteilte Architektur über zwei Lände
 
 ## 🎞️ Vorschau
 
-<table style="width:100%; border-collapse: collapse; margin-top: 15px;">
+<table>
   <tr>
-    <td align="center" valign="top" style="width: 33.33%; padding: 10px;">
-      <img src="assets/rack_overview.jpg" alt="Sun Oracle Netzwerkschrank" style="width:100%; max-width:240px; border-radius: 6px;">
-      <br><br>
-      <strong>📦 1. Netzwerkschrank</strong>
-      <br>
-      <small style="color: #666;">Sun Oracle 19" Rack-Ansicht</small>
+    <td align="center" width="33%">
+      <img src="assets/rack_overview.jpg" width="240"><br>
+      <b>📦 Netzwerkschrank</b><br>
+      <sub>Sun Oracle 19" Rack</sub>
     </td>
-    <td align="center" valign="top" style="width: 33.33%; padding: 10px;">
-      <img src="assets/GroßesRZ_ServerInnen.jpg" alt="Server Chassis 4 HE" style="width:100%; max-width:240px; border-radius: 6px;">
-      <br><br>
-      <strong>🖥️ 2. Server-Chassis</strong>
-      <br>
-      <small style="color: #666;">4 HE Gehäuse mit Hot-Swap</small>
+    <td align="center" width="33%">
+      <img src="assets/GroßesRZ_ServerInnen.jpg" width="240"><br>
+      <b>🖥️ Server-Chassis</b><br>
+      <sub>4 HE Servergehäuse</sub>
     </td>
-    <td align="center" valign="top" style="width: 33.33%; padding: 10px;">
-      <img src="../../assets/apc_ups.jpg" alt="" style="width:100%; max-width:240px; border-radius: 6px;">
-      <br><br>
-      <strong></strong>
-      <br>
-      <small style="color: #666;"></small>
+    <td align="center" width="33%">
+      <img src="assets/server_chassis.jpg" width="240"><br>
+      <b>⚙️ Innenaufbau</b><br>
+      <sub>Hardware & Komponenten</sub>
     </td>
   </tr>
 </table>
