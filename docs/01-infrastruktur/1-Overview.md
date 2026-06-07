@@ -45,7 +45,8 @@ Die Infrastruktur verteilt sich auf zwei physisch getrennte Standorte:
 | 1.2 | [`1.2-Server Hardware`](./1.2-Server_Hardware.md)           | Rechenknoten – CPU, RAM, Speicher und Rollen aller Server-Nodes |
 | 1.3 | [`1.3-Firewall Hardware`](./1.3-Firewall_Hardware.md)       | Firewall-Appliances – Dell Wyse 3040 mit OPNsense               |
 | 1.4 | [`1.4-Netzwerk Komponenten`](./1.4-Netzwerk_Komponenten.md) | Switches, Access Points und lokale Netzwerk-Endpunkte           |
-| 1.5 | [`1.5-Storage Layout`](./1.5-Storage_Layout.md)             | Storage-Konzept, Datenträger-Zuordnung und Datensicherung       |
+| 1.5 | [`1.5-Verkalblungsplan`](./1.5-Verkablungsplan.md)          | Storage-Konzept, Datenträger-Zuordnung und Datensicherung       |
+| 1.6 | [`1.5-Storage Layout`](./1.6-Storage_Layout.md)             | Storage-Konzept, Datenträger-Zuordnung und Datensicherung       |
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #555, transparent); margin: 25px 0;">
 

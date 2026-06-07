@@ -28,8 +28,8 @@ Hier werden reale Betriebsaufgaben wie automatisiertes Deployment, Netzwerksegme
 
 Das Kernmerkmal dieses Setups ist eine **verteilte Architektur über zwei Länder**:
 
-- **Standort Serbien:** Ein leistungsstarker Hauptserver im 24/7-Dauerbetrieb für die primären Dienste und Workloads.
-- **Standort Deutschland:** Ein lokales Setup für die tägliche Verwaltung, Entwicklung und den sicheren Zugriff.
+- **Standort Serbien**
+- **Standort Deutschland**
 
 ### 🛠️ Technisches Fundament
 
@@ -41,15 +41,21 @@ Das Kernmerkmal dieses Setups ist eine **verteilte Architektur über zwei Lände
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #555, transparent); margin: 30px 0;">
 
-## Kapitel
+## Tabel of Content
 
-| #   | Kapitel                                                  | Inhalt                                           |
-| --- | -------------------------------------------------------- | ------------------------------------------------ |
-| 01  | [Infrastruktur](./docs/01-infrastruktur/1-Overview.md)   | Hardware beider Standorte, Storage, Systemrollen |
-| 02  | [Netzwerk](./docs/02-network/overview.md)                | Topologie, WireGuard VPN, Firewall, DNS, WLAN    |
-| 03  | [Virtualisierung](./docs/03-virtualisierung/overview.md) | Proxmox VE, VMs, LXC-Container, Deployment       |
-| 04  | [Dienste](./docs/04-dienste/overview.md)                 | Core-Infrastruktur, Self-Hosted Apps             |
-| 05  | [Operations](./docs/05-operations/overview.md)           | Backup-Strategie, Monitoring, Roadmap            |
+- [01. Infrastruktur](./docs/01-infrastruktur/1-Overview.md)
+  - [1.1 Housing ](./docs/01-infrastruktur/1.1-Housing.md)
+  - [1.2 Server Hardware](./docs/01-infrastruktur/1.2-Server_Hardware.md)
+  - [1.3 Firewall Hardware](./docs/01-infrastruktur/1.3-Firewall_Hardware.md)
+  - [1.4 Network Hardware](./docs/01-infrastruktur/1.4-Network‚_Hardware.md)
+  - [1.5 Verkablungsplan](./docs/01-infrastruktur/1.5-Verkabungsplan.md)
+  - [1.6 Storage Layout](./docs/01-infrastruktur/1.6-Storage_Layout.md)
+- [02. Netzwerk](./docs/02-network/overview.md)
+  - [2.1 Deutschland Network](./docs/02-network/2.1-Deutschland.md)
+  - [2.2 Serbien Network](./docs/02-network/2.2-Serbien.md)
+  - [2.3 VPN Konzept](./docs/02-network/2.3-VPN_Konzept.md)
+- [03. Services](./docs/02-network/overview.md) 🚧Wird ergänzt
+- [04. Umgesetzte Projekte](./docs/02-network/2.1-Deutschland.md)
 
 ## 🎞️ Vorschau
 
